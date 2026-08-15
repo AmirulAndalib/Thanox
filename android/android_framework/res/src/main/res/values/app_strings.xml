@@ -1580,18 +1580,13 @@ If you are already a paid user of Thanox or Thanox Pro, you do not need to subsc
     <string name="module_donate_pay_alipay">Ali pay</string>
     <string name="module_donate_pay_wechat">Wechat pay</string>
     <string name="module_donate_sku">SKU</string>
-    <string name="module_donate_contact_qq">Contact customer service QQ</string>
-    <string name="module_donate_contact_qq_message">QQ is not installed. Customer service QQ: %s has been copied, please add it manually and pay directly or send the payment proof.</string>
-    <string name="module_donate_pay_after_send_to_qq">After payment, send the payment proof (with the order number) to customer service QQ: %s, the code will be replied after verification.</string>
-    <string name="module_donate_email_alternative">Alternative: Get activation code via email</string>
-    <string name="module_donate_email_alternative_message">If you cannot use QQ, you can also get the activation code via email:\n1. After payment, send an email to **%s**;\n2. Write **Thanox Premium Application** as the subject;\n3. Attach the payment screenshot **with the order number**;\n4. We will reply with the activation code via email as soon as possible (usually within 12 hours).</string>
     <string name="module_donate_purchase_process">Purchase Process</string>
-    <string name="module_donate_method_1_title">Option 1: Pay directly via customer service QQ</string>
-    <string name="module_donate_method_1_desc">Add customer service QQ %s and pay directly, the code will be replied directly in QQ.</string>
-    <string name="module_donate_method_2_title">Pay via WeChat/Alipay and send the proof to customer service QQ</string>
-    <string name="module_donate_method_2_desc">After paying via WeChat/Alipay, send the payment proof with the order number to customer service QQ %s, the code will be replied after verification. You can also tap the button at the bottom right to view the corresponding payment QR code.</string>
-    <string name="module_donate_method_1_action_hint">Tap to add</string>
-    <string name="module_donate_method_2_action_hint">Tap to copy QQ</string>
+    <string name="module_donate_email_method_title">Email activation code</string>
+    <string name="module_donate_email_step_1">Pay via WeChat/Alipay, then send an email to the address above with the payment proof (with the order number) attached.</string>
+    <string name="module_donate_email_step_2">Use "Thanox Premium Subscription" as the email subject.</string>
+    <string name="module_donate_email_step_3">We will reply with the activation code via email as soon as possible (usually within 12 hours).</string>
+    <string name="module_donate_email_qq_consult">No reply for a long time? Add customer service QQ %s for help.</string>
+    <string name="module_donate_pay_after_send_to_email">After payment, send the payment proof (with the order number) to %s, the activation code will be replied via email after verification.</string>
     <string name="module_donate_pay_qr">QR Code</string>
 
     <!-- Settings - History Versions -->
