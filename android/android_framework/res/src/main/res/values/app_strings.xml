@@ -1585,7 +1585,8 @@ If you are already a paid user of Thanox or Thanox Pro, you do not need to subsc
     <string name="module_donate_email_step_1">Pay via WeChat/Alipay, then send an email to the address above with the payment proof (with the order number) attached.</string>
     <string name="module_donate_email_step_2">Use "Thanox Premium Subscription" as the email subject.</string>
     <string name="module_donate_email_step_3">We will reply with the activation code via email as soon as possible (usually within 12 hours).</string>
-    <string name="module_donate_email_qq_consult">No reply for a long time? Add customer service QQ %s for help.</string>
+    <string name="module_donate_email_qq_consult">Add customer service QQ %s for help.</string>
+    <string name="module_donate_email_qq_consult_hint">No reply for a long time?</string>
     <string name="module_donate_pay_after_send_to_email">After payment, send the payment proof (with the order number) to %s, the activation code will be replied via email after verification.</string>
     <string name="module_donate_pay_qr">QR Code</string>
 

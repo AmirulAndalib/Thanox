@@ -1518,7 +1518,8 @@
     <string name="module_donate_email_step_1">微信/支付宝支付后，发邮件到上方邮箱地址，附上带支付订单号的支付截图。</string>
     <string name="module_donate_email_step_2">邮件标题写 "Thanox高级版订阅"。</string>
     <string name="module_donate_email_step_3">我们会尽快通过邮件回复激活码（一般不超过12小时）。</string>
-    <string name="module_donate_email_qq_consult">长时间未收到回复？添加客服QQ %s 咨询。</string>
+    <string name="module_donate_email_qq_consult">添加客服QQ %s 諮詢。</string>
+    <string name="module_donate_email_qq_consult_hint">長時間未收到回覆？</string>
     <string name="module_donate_pay_after_send_to_email">支付完成后，请将支付凭证（含订单号）发送至 %s，客服核对后通过邮件回复激活码。</string>
     <string name="module_donate_pay_qr">付款碼</string>
 
