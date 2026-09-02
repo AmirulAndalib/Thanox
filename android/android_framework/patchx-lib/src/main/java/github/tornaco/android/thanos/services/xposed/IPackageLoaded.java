@@ -18,7 +18,7 @@
 package github.tornaco.android.thanos.services.xposed;
 
 public interface IPackageLoaded {
-    void onPackageLoaded(Param param) throws Throwable;
+    default void onPackageLoaded(Param param) throws Throwable {}
 
     class Param {
         public String packageName;

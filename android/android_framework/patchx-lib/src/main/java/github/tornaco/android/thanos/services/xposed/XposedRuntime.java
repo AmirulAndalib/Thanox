@@ -1,7 +1,6 @@
 package github.tornaco.android.thanos.services.xposed;
 
 import java.lang.reflect.Constructor;
-import java.lang.reflect.Member;
 import java.lang.reflect.Method;
 import java.util.function.Consumer;
 
@@ -15,6 +14,7 @@ public final class XposedRuntime {
     public static void init(XposedAdapter xposedAdapter, boolean systemServer) {
         adapter = xposedAdapter;
         isSystemServer = systemServer;
+        System.err.println("Thanox-XposedRuntime init: systemServer=" + systemServer);
     }
 
     public static XposedAdapter current() {
